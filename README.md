@@ -1,4 +1,4 @@
-# UCB_MLAI
+# Assignment 5.1 Readme
 
 Objective: The goal is to analyze the data for demographics and behavioral patterns to identify the right target customers who are most likely to accept coupons. 
 
