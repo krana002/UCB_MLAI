@@ -2,7 +2,7 @@
 In this practical application, our goal is to compare the performance of the different classifiers using Portuguese bank's direct phone call marketing campaigns, which aim to promote term deposits among existing customers. The classifiers used are K Nearest Neighbor, Logistic Regression, Decision Trees, and Support Vector Machines. 
 
 ### Getting Started:
-Our dataset comes from the UCI Machine Learning repository link. The data is from a Portugese banking institution and is a collection of the results of multiple marketing campaigns. We will make use of the article accompanying the dataset here for more information on the data and features. Here is the link to the Jupyter Notebook.
+Our dataset comes from the UCI Machine Learning repository link. The data is from a Portugese banking institution and is a collection of the results of multiple marketing campaigns. We will make use of the article accompanying the dataset here for more information on the data and features.
 ### Business Understanding:
 The main objective is to build multiple classifier methods that will predict whether a customer contact over the phone will result in a sale of banking deposit products. The features used to train the classifier methods is from a Portugal dataset of bank customers including the demographic details of the customers contacted, age and duration of contact. The goal is to examine the performance of multiple classifier methods based on a set of metrics so as to increase the effectiveness of the bank's telemarketing campaign. 
 ### Exploratory Data Analysis:
