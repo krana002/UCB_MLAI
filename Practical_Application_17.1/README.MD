@@ -12,11 +12,11 @@ EDA was done to see the correlation among the various numerical data values. The
 ### Feature Engineering: 
 2 levels of analysis was done using the engineering features. In the first instance, 7 key features (identified as part of EDA) like age, education, job, marital, default, housing, loan etc was used and simple models of Logistic Regression, KNN, Decision Tree, SVM was used arrive at the Performance and Accuracy of the models. Decision Tree showed the highest accuracy while Logistic Regression and Decision Tree came up with comparable train time.
 
-![alt text](https://ibb.co/DzGXZzG)
+![alt text](https://raw.githubusercontent.com/krana002/UCB_MLAI/main/Untitled%20178.jpg)
 
 Further analysis was done to extend the model with additional features and measure the performance using ROC AUC. In this situation, Logistic Regression with Hyperparameters, KNN with GridSearchCV and Decision Trees with GridSearchCV was used and summarized as below.
 
-![alt text](https://ibb.co/LnG3yfY)
+![alt text](https://raw.githubusercontent.com/krana002/UCB_MLAI/main/Untitled%20179.jpg)
 
 After hyperparameter tuning, Logistic Regression and Decision Trees showed the highest ROC AUC scores but Logistic Regression took much less time than Decision Tree (with 6 depth). 
 ### Findings:
